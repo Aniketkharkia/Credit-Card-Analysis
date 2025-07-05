@@ -4,7 +4,7 @@
 ### Overview
 This project showcases my SQL skills by analyzing a credit card transaction dataset, demonstrating my proficiency in using various SQL functions to extract insights and solve problems. While the project reveals valuable information about spending habits and market trends, its primary focus is on showcasing my SQL expertise, particularly in using advanced functions like window functions, aggregate functions, and subqueries.
 ## 🛠 Tools used
-SQL Server, Datawrapper, Kaggle, dbdiagram
+MYSQL, Datawrapper, Kaggle, dbdiagram
 
 ## 🎯Purpose of the Project:
 
